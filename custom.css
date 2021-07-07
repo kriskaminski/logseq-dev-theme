@@ -2,13 +2,13 @@
 @import url("https://cdn.jsdelivr.net/gh/tonsky/FiraCode@5.2/distr/fira_code.css");
 @import url(https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap);
 @import url("https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;500;700;900&display=swap");
 :root {
   --ct-page-title-font-family: Asap, "Noto Sans SC", sans-serif;
   --ct-text-size: 16px;
   --ct-line-height: 1.5;
   --ls-main-content-max-width: 1200px;
-  --ls-font-family: "Noto Sans SC", sans-serif;
+  --ls-font-family: "Lato", sans-serif;
   --ct-background: var(--ls-primary-background-color);
   --ct-code-font-family: "Fira Code", Monaco, Menlo, Consolas, "COURIER NEW",
     monospace;
